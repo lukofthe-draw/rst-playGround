@@ -58,3 +58,4 @@ fn main() {
     fridge.add_food(Food {
         name: String::from("Ground beef"),
         food_type:
+        };
